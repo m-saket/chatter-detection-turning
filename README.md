@@ -56,7 +56,7 @@ The final model (Random Forest) is used to generate a **stability diagram** — 
 | `ME623_Chatter_Detection.ipynb` | Full, executed analysis notebook — data cleaning through final model |
 | `final_all_features_dataset.csv` | Engineered feature dataset (739 windows, 17 trials), including both the naive and physics-informed labels |
 | `ME623_project_report.docx` | Full written report: methodology, literature review, results, limitations |
-| `ME623_Chatter_Detection_Deck.pptx` / `.pdf` | Presentation deck |
+| `ME623_Chatter_Detection_Deck.pdf` | Presentation deck |
 
 ## Tech Stack
 
